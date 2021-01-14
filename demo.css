@@ -29,4 +29,12 @@ body{
     font-size: 100px;
 }
 
+input[type="button"]{
+    border: none;
+    outline: none;
+    background-color: #7f7f7f;
+    height: 60px;
+    font-size: 40px;
+
+}
 
